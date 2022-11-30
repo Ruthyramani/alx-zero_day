@@ -1,1 +1,1 @@
-my first readme
+An edited README of the work
